@@ -143,7 +143,7 @@ donnees/*
 ````text
 # Copiez en .env (jamais commité) ou exportez ces variables. Toutes les clés sont optionnelles.
 ANTHROPIC_API_KEY=
-YOUTUBE_API_KEY=Key= AIzaSyBc_CM9lnUdTgIX7xoF8lZqpzvrt6z_wuM
+YOUTUBE_API_KEY=Key=AIzaSyBc_CM9lnUdTgIX7xoF8lZqpzvrt6z_wuM
 REDDIT_CLIENT_ID=
 REDDIT_CLIENT_SECRET=
 BSKY_HANDLE=
@@ -168,7 +168,7 @@ headless = true
 # Local : copiez en .streamlit/secrets.toml (ignoré par git)
 # Streamlit Community Cloud : collez ce contenu dans App settings > Secrets
 ANTHROPIC_API_KEY = ""
-YOUTUBE_API_KEY = ""
+YOUTUBE_API_KEY = "AIzaSyBc_CM9lnUdTgIX7xoF8lZqpzvrt6z_wuM"
 REDDIT_CLIENT_ID = ""
 REDDIT_CLIENT_SECRET = ""
 BSKY_HANDLE = ""
